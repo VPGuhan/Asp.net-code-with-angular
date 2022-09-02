@@ -1,2 +1,2 @@
-# Asp.net-code-with-angular
-asp.net code with angular architecture
+# Asp.net core with angular
+asp.net core with angular architecture
